@@ -50,7 +50,7 @@
         "lint-clean": "phpcbf src/ tests/"
     },
     "suggest": {
-        "symbiote/silverstripe-queuedjobs": "Add background execution of indexing tasks",
+        "symbiote/silverstripe-queuedjobs": "Add background execution of indexing task",
         "silverstripe/fulltextsearch-localsolr": "Adds a ready-to-use local Solr server for initial development"
     },
     "minimum-stability": "dev",
